@@ -6,7 +6,6 @@
     "bin": ["rpcs3.exe"],
     "shortcuts": [["rpcs3.exe", "PS3"]],
     "persist": [
-      "rpcs3.VisualElementsManifest.xml",
       "config.yml",
       "config_input.yml",
       "games.yml",
